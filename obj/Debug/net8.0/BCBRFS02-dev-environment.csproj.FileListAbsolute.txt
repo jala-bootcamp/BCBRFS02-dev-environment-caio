@@ -1,0 +1,15 @@
+/workspaces/BCBRFS02-dev-environment/bin/Debug/net8.0/BCBRFS02-dev-environment
+/workspaces/BCBRFS02-dev-environment/bin/Debug/net8.0/BCBRFS02-dev-environment.deps.json
+/workspaces/BCBRFS02-dev-environment/bin/Debug/net8.0/BCBRFS02-dev-environment.runtimeconfig.json
+/workspaces/BCBRFS02-dev-environment/bin/Debug/net8.0/BCBRFS02-dev-environment.dll
+/workspaces/BCBRFS02-dev-environment/bin/Debug/net8.0/BCBRFS02-dev-environment.pdb
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.AssemblyInfoInputs.cache
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.AssemblyInfo.cs
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.csproj.CoreCompileInputs.cache
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.sourcelink.json
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.dll
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/refint/BCBRFS02-dev-environment.dll
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.pdb
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/BCBRFS02-dev-environment.genruntimeconfig.cache
+/workspaces/BCBRFS02-dev-environment/obj/Debug/net8.0/ref/BCBRFS02-dev-environment.dll
